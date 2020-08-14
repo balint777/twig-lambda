@@ -1,5 +1,5 @@
 {
-    "name": "dpolac/twig-lambda",
+    "name": "balint777/twig-lambda",
     "type": "library",
     "description": "Lambda expressions for Twig and filters that make use of them",
     "keywords": [
